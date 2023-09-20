@@ -18,23 +18,121 @@ Pyhton, Matplotlib, Seaborn
 ### 1) Performed EDA and data cleaning 
 
 
+
+
+
+
 ### 2) Data analysis and visualisations
+
+
+
+
+
+
 ### A significant number of canceled bookings have been observed.
+
+
+
+
+
+
+<img width="288" alt="11" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/e927f1f3-1530-4190-b37b-bd6ce7b4d702">
+
+
+
+
+
+
+
+
 
 ### The city hotel has a higher number of bookings and cancellations
 
 
 
 
+
+
+
+<img width="532" alt="2" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/6de44fb3-b705-40da-b049-8f6ae6ef6e7c">
+
+
+
+
+
+
+
 ### Average daily rate city vs resort
+
+
+
+
+
+
+
+<img width="548" alt="3" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/1a7fd736-3650-4201-a93b-0773e3d806ac">
+
+
+
+
+
+
 
 ### Reservation status per month cancelled vs not cancelled 
 
+
+
+
+
+
+
+<img width="285" alt="4" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/8441c876-30fb-4f76-8318-a435aa99d95f">
+
+
+
+
+
+
+
 ### Average daily rate for the cancelled month
+
+
+
+
+
+
+<img width="413" alt="5" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/4911c00d-df5b-4eee-b8d7-284876f8ffb4">
+
+
+
+
+
+
 
 ### Percentage wise distribution of maximum cancelled bookings
 
+
+
+
+
+<img width="373" alt="6" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/3cf01241-ad74-4bed-8341-4b14072b6464">
+
+
+
+
+
+
+
 ### Average price cancelled vs not cancelled
+
+
+
+
+
+<img width="351" alt="8" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/7a375bdb-4c5c-4dc0-9f57-1c9432e7a4ac">
+
+
+
 
 
 
