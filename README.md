@@ -19,7 +19,19 @@ Pyhton, Matplotlib, Seaborn
 
 
 ### 2) Data analysis and visualisations
+### A significant number of canceled bookings have been observed.
 
+### The city hotel has a higher number of bookings and cancellations
+
+### Average daily rate city vs resort
+
+### Reservation status per month cancelled vs not cancelled 
+
+### Average daily rate for the cancelled month
+
+### Percentage wise distribution of maximum cancelled bookings
+
+### Average price cancelled vs not cancelled
 
 
 
@@ -38,6 +50,11 @@ To bolster customer engagement during specific periods, contemplate introducing 
  Allocate resources judiciously towards enhancing the infrastructure and amenities offered by hotels situated in Portugal. This investment aims to address the observed higher cancellation rates in this region, ensuring a more satisfactory customer experience.
 
 .
+
+
+
+
+
 
 
 
