@@ -23,6 +23,9 @@ Pyhton, Matplotlib, Seaborn
 
 ### The city hotel has a higher number of bookings and cancellations
 
+
+
+
 ### Average daily rate city vs resort
 
 ### Reservation status per month cancelled vs not cancelled 
