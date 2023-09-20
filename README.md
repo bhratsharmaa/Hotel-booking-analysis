@@ -1,8 +1,7 @@
 
 # Hotel booking analysis project 
 
-
-Welcome to the Hotel booking Analysis project! In this repository, we have conducted an in-depth Exploratory Data Analysis (EDA) on a comprehensive dataset related to  restaurant's operations. This analysis is geared towards providing valuable insights and data-driven recommendations to enhance  hotel's business strategies.
+Welcome to the Hotel Booking Analysis project! In this repository, an in-depth Exploratory Data Analysis (EDA) has been conducted on a comprehensive dataset related to restaurant operations. This analysis aims to provide valuable insights and data-driven recommendations to enhance the hotel's business strategies.
 
 
 
