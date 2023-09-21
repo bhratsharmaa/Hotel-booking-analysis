@@ -4,8 +4,7 @@
 
 
 
-![hotel gif](https://github.com/bhratsharmaa/movies_recommendation_1/assets/132134997/75849352-f160-4cf9-93e5-f91be1091fda)
-
+![square-1495583407-haunted-hotels](https://github.com/bhratsharmaa/movies_recommendation_1/assets/132134997/00d5b543-8114-4c2b-9545-6033a4593046)
 
 
 
