@@ -1,6 +1,18 @@
 
 # Hotel booking analysis project 
 
+
+
+
+![hotel gif](https://github.com/bhratsharmaa/movies_recommendation_1/assets/132134997/75849352-f160-4cf9-93e5-f91be1091fda)
+
+
+
+
+
+
+
+
 Welcome to the Hotel Booking Analysis project! In this repository, an in-depth Exploratory Data Analysis (EDA) has been conducted on a comprehensive dataset related to restaurant operations. This analysis aims to provide valuable insights and data-driven recommendations to enhance the hotel's business strategies.
 
 
