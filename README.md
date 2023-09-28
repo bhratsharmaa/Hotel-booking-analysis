@@ -19,10 +19,10 @@
 
  
 
-## Project Description:
+## Project Objective :
 The hospitality industry is a fiercely competitive arena, demanding constant adaptation and optimization for hotels to thrive financially. This project takes advantage of Python, Jupyter Notebook, Seaborn, and Matplotlib to harness the power of data analysis and visualization. The goal was to assist a resort hotel  in elevating its revenue and overall performance.
 
-## Project Objectives:
+## Project Description:
 ### 1) Data Acquisition and Cleaning:
 Ensured data reliability and consistency by acquiring hotel booking data and meticulously cleaning the dataset
 
